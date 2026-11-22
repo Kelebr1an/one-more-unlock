@@ -1,11 +1,11 @@
-# RoR2 Achievements
+# Достижения Steam
 
-Мои достижения в Risk of Rain 2: [профиль Steam](https://steamcommunity.com/id/Kelebr1an/).
+Личный трекер достижений для Risk of Rain 2, The Witcher 3 и Phantom Blade Zero.
 
-**[Открыть JSON с достижениями](https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/achievements.json)**
+- [Общий индекс для ChatGPT](https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/index.json) показывает прогресс, дату обновления и ссылку на достижения каждой игры.
+- [Ручное обновление в GitHub Actions](https://github.com/Kelebr1an/ror2-achievements-feed/actions/workflows/update-achievements.yml). Нажми **Run workflow**, выбери игру или `all` и дождись завершения.
+- [Дневник прогресса](https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/journal.json) хранит первый снимок каждой новой игры и изменения после обновлений. Уже полученные достижения первого снимка не считаются новыми.
 
-- Достижения обновляются только вручную через кнопку Run workflow.
-- После забега: [Actions → Update achievements → Run workflow](https://github.com/Kelebr1an/ror2-achievements-feed/actions/workflows/update-achievements.yml).
-- `fetched_at` — время получения данных в UTC; по нему проверяется свежесть снимка.
+По `fetched_at` проверяй свежесть данных. `last_progress` показывает последнее изменение прогресса и может относиться к более раннему обновлению.
 
-Ссылку на JSON можно передавать ChatGPT для планирования следующих забегов.
+[Прямая ссылка на список достижений RoR2](https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/achievements.json).

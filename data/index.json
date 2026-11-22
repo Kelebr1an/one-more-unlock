@@ -1,0 +1,28 @@
+{
+  "profile": "https://steamcommunity.com/id/Kelebr1an/",
+  "journal_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/journal.json",
+  "games": {
+    "ror2": {
+      "title": "Risk of Rain 2",
+      "appid": 632360,
+      "status": "in_progress",
+      "fetched_at": "2026-11-06T04:10:28Z",
+      "total": 205,
+      "unlocked": 203,
+      "remaining": 2,
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/achievements.json",
+      "completed_at": null,
+      "last_progress": null
+    },
+    "witcher3": {
+      "title": "The Witcher 3: Wild Hunt",
+      "appid": 292030,
+      "status": "not_fetched"
+    },
+    "phantom-blade-zero": {
+      "title": "Phantom Blade Zero",
+      "appid": 4115450,
+      "status": "not_fetched"
+    }
+  }
+}

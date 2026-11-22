@@ -110,18 +110,19 @@ def resolve_steam_id(client):
     return steam_id
 
 
-def collect_snapshot(client):
-    steam_id = resolve_steam_id(client)
+def collect_snapshot(client, appid=APP_ID, *, steam_id=None):
+    if steam_id is None:
+        steam_id = resolve_steam_id(client)
     payload = client.get(
         "ISteamUserStats/GetPlayerAchievements/v1",
-        {"steamid": steam_id, "appid": APP_ID, "l": "english"},
+        {"steamid": steam_id, "appid": appid, "l": "english"},
     )
     stats = _object(payload.get("playerstats"), "playerstats")
     if stats.get("success") is not True:
         raise FeedError("Steam achievements are unavailable. Check profile and game-details privacy.")
     # GetPlayerAchievements normally returns gameName, not appid; the request
     # already fixes AppID. Reject a contradictory ID if Steam includes one.
-    if "appid" in stats and (type(stats["appid"]) is not int or stats["appid"] != APP_ID):
+    if "appid" in stats and (type(stats["appid"]) is not int or stats["appid"] != appid):
         raise FeedError("Steam returned achievements for an unexpected game.")
     if stats.get("steamID") != steam_id:
         raise FeedError("Steam returned achievements for an unexpected player.")
@@ -148,7 +149,7 @@ def collect_snapshot(client):
                 "apiname": apiname,
                 "name": _text(entry.get("name"), "achievement name"),
                 # Steam can intentionally omit the text of hidden achievements.
-                "description": _text(entry.get("description"), "description", allow_empty=True),
+                "description": _text(entry.get("description", ""), "description", allow_empty=True),
                 "achieved": achieved,
                 "unlocktime": unlocktime,
             }
@@ -156,7 +157,7 @@ def collect_snapshot(client):
     achievements.sort(key=lambda entry: entry["apiname"])
     unlocked = sum(entry["achieved"] for entry in achievements)
     return {
-        "appid": APP_ID,
+        "appid": appid,
         "profile": PROFILE,
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
         "total": len(achievements),
@@ -166,22 +167,42 @@ def collect_snapshot(client):
     }
 
 
-def preserve_if_incomplete(output, snapshot):
-    """Reject missing API names; permit newly added achievements and changed unlocks."""
+def load_snapshot(output, appid):
     if not output.exists():
-        return
+        return None
     try:
         previous = json.loads(output.read_text(encoding="utf-8"))
-        if previous["appid"] != APP_ID or previous["profile"] != PROFILE:
+        if previous["appid"] != appid or previous["profile"] != PROFILE:
             raise ValueError
-        previous_entries = previous["achievements"]
-        if not isinstance(previous_entries, list):
+        entries = previous["achievements"]
+        if not isinstance(entries, list) or not entries:
             raise ValueError
-        previous_names = {entry["apiname"] for entry in previous_entries}
-        if any(not isinstance(name, str) for name in previous_names):
+        names = set()
+        for entry in entries:
+            if not isinstance(entry["apiname"], str) or entry["apiname"] in names:
+                raise ValueError
+            if type(entry["achieved"]) is not int or entry["achieved"] not in (0, 1):
+                raise ValueError
+            if type(entry["unlocktime"]) is not int or entry["unlocktime"] < 0:
+                raise ValueError
+            names.add(entry["apiname"])
+        unlocked = sum(entry["achieved"] for entry in entries)
+        if (previous["total"], previous["unlocked"], previous["remaining"]) != (
+            len(entries), unlocked, len(entries) - unlocked,
+        ):
+            raise ValueError
+        if datetime.fromisoformat(previous["fetched_at"]).tzinfo is None:
             raise ValueError
     except (OSError, ValueError, TypeError, KeyError, UnicodeError):
         raise FeedError("Existing snapshot is invalid; refusing to replace it automatically.") from None
+    return previous
+
+
+def validate_replacement(previous, snapshot):
+    """Reject missing API names; permit newly added achievements and changed unlocks."""
+    if previous is None:
+        return
+    previous_names = {entry["apiname"] for entry in previous["achievements"]}
     current_names = {entry["apiname"] for entry in snapshot["achievements"]}
     if not previous_names <= current_names:
         raise FeedError("Steam response is missing previously published achievements; snapshot preserved.")
@@ -210,15 +231,19 @@ def atomic_write(output, content):
                 pass
 
 
+def serialize_public(data, api_key=""):
+    content = json.dumps(data, ensure_ascii=False, indent=2, allow_nan=False) + "\n"
+    if api_key and api_key.strip() in content:
+        raise FeedError("Refusing to publish a response containing sensitive data.")
+    return content
+
+
 def update_feed(output, api_key, *, client=None):
     client = client if client is not None else SteamClient(api_key)
     snapshot = collect_snapshot(client)
-    content = json.dumps(snapshot, ensure_ascii=False, indent=2, allow_nan=False) + "\n"
-    if api_key and api_key.strip() in content:
-        raise FeedError("Refusing to publish a response containing sensitive data.")
     output = Path(output)
-    preserve_if_incomplete(output, snapshot)
-    atomic_write(output, content)
+    validate_replacement(load_snapshot(output, APP_ID), snapshot)
+    atomic_write(output, serialize_public(snapshot, api_key))
     return snapshot
 
 
