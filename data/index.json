@@ -1,6 +1,6 @@
 {
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "journal_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/journal.json",
+  "journal_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/journal.json",
   "games": {
     "ror2": {
       "title": "Risk of Rain 2",
@@ -10,7 +10,7 @@
       "total": 205,
       "unlocked": 205,
       "remaining": 0,
-      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/achievements.json",
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/achievements.json",
       "completed_at": "2026-11-06T04:49:56Z",
       "last_progress": {
         "game": "ror2",
@@ -41,7 +41,7 @@
       "total": 78,
       "unlocked": 61,
       "remaining": 17,
-      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/292030.json",
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/292030.json",
       "completed_at": null,
       "last_progress": {
         "game": "witcher3",
@@ -61,7 +61,7 @@
       "total": 66,
       "unlocked": 66,
       "remaining": 0,
-      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/4115450.json",
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/4115450.json",
       "completed_at": "2026-11-22T19:13:06Z",
       "last_progress": {
         "game": "phantom-blade-zero",

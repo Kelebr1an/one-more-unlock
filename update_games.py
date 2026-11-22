@@ -25,7 +25,7 @@ from fetch_achievements import (
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
-DATA_URL = "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/"
+DATA_URL = "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/"
 PARTIAL_SUCCESS = 3
 
 

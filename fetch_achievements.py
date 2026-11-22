@@ -46,7 +46,7 @@ class SteamClient:
         query = urlencode({"key": self._api_key, **parameters})
         request = Request(
             f"{API_BASE}/{endpoint}/?{query}",
-            headers={"Accept": "application/json", "User-Agent": "ror2-achievements-feed/1.0"},
+            headers={"Accept": "application/json", "User-Agent": "one-more-unlock/1.0"},
         )
         for attempt in range(self._attempts):
             try:
