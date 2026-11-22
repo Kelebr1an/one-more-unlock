@@ -5,24 +5,73 @@
     "ror2": {
       "title": "Risk of Rain 2",
       "appid": 632360,
-      "status": "in_progress",
-      "fetched_at": "2026-11-06T04:10:28Z",
+      "status": "completed",
+      "fetched_at": "2026-11-22T21:14:05Z",
       "total": 205,
-      "unlocked": 203,
-      "remaining": 2,
+      "unlocked": 205,
+      "remaining": 0,
       "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/achievements.json",
-      "completed_at": null,
-      "last_progress": null
+      "completed_at": "2026-11-06T04:49:56Z",
+      "last_progress": {
+        "game": "ror2",
+        "fetched_at": "2026-11-22T21:14:05Z",
+        "previous_fetched_at": "2026-11-06T04:10:28Z",
+        "total": 205,
+        "unlocked": 205,
+        "remaining": 0,
+        "newly_unlocked": [
+          {
+            "apiname": "ObtainArtifactWeakAssKnees",
+            "name": "Trial of Frailty",
+            "unlocktime": 1793940596
+          },
+          {
+            "apiname": "SuicideHermitCrabs",
+            "name": "The Demons And The Crabs",
+            "unlocktime": 1793940138
+          }
+        ]
+      }
     },
     "witcher3": {
       "title": "The Witcher 3: Wild Hunt",
       "appid": 292030,
-      "status": "not_fetched"
+      "status": "in_progress",
+      "fetched_at": "2026-11-22T21:14:06Z",
+      "total": 78,
+      "unlocked": 61,
+      "remaining": 17,
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/292030.json",
+      "completed_at": null,
+      "last_progress": {
+        "game": "witcher3",
+        "fetched_at": "2026-11-22T21:14:06Z",
+        "previous_fetched_at": null,
+        "total": 78,
+        "unlocked": 61,
+        "remaining": 17,
+        "newly_unlocked": []
+      }
     },
     "phantom-blade-zero": {
       "title": "Phantom Blade Zero",
       "appid": 4115450,
-      "status": "not_fetched"
+      "status": "completed",
+      "fetched_at": "2026-11-22T21:14:06Z",
+      "total": 66,
+      "unlocked": 66,
+      "remaining": 0,
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/ror2-achievements-feed/main/data/4115450.json",
+      "completed_at": "2026-11-22T19:13:06Z",
+      "last_progress": {
+        "game": "phantom-blade-zero",
+        "fetched_at": "2026-11-22T21:14:06Z",
+        "previous_fetched_at": null,
+        "total": 66,
+        "unlocked": 66,
+        "remaining": 0,
+        "newly_unlocked": []
+      }
     }
   }
 }

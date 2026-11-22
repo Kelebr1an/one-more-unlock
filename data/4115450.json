@@ -1,0 +1,472 @@
+{
+  "appid": 4115450,
+  "profile": "https://steamcommunity.com/id/Kelebr1an/",
+  "fetched_at": "2026-11-22T21:14:06Z",
+  "total": 66,
+  "unlocked": 66,
+  "remaining": 0,
+  "achievements": [
+    {
+      "apiname": "ACH_001",
+      "name": "The Heart's Journey",
+      "description": "Escape the Pursuers on the Main Road",
+      "achieved": 1,
+      "unlocktime": 1793255415
+    },
+    {
+      "apiname": "ACH_002",
+      "name": "An Unwavering Heart",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793295583
+    },
+    {
+      "apiname": "ACH_003",
+      "name": "Blotting Out the Sky",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793553160
+    },
+    {
+      "apiname": "ACH_004",
+      "name": "Nowhere to Stand",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793641211
+    },
+    {
+      "apiname": "ACH_005",
+      "name": "Blossom of False Salvation",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1794997374
+    },
+    {
+      "apiname": "ACH_006",
+      "name": "Into the Deadly Trap",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795086674
+    },
+    {
+      "apiname": "ACH_007",
+      "name": "A World Gone Hollow",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795352669
+    },
+    {
+      "apiname": "ACH_008",
+      "name": "Who Can Judge?",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795295782
+    },
+    {
+      "apiname": "ACH_009",
+      "name": "Where Have Old Friends Gone?",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795343224
+    },
+    {
+      "apiname": "ACH_010",
+      "name": "Muddy Waters Run Deep",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795350648
+    },
+    {
+      "apiname": "ACH_011",
+      "name": "Blood Heralds the Dawn",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795361671
+    },
+    {
+      "apiname": "ACH_012",
+      "name": "Through Frost and Snow",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795371776
+    },
+    {
+      "apiname": "ACH_013",
+      "name": "With Heart and Blood",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795374786
+    },
+    {
+      "apiname": "ACH_014",
+      "name": "The Axe's Grudge",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793294263
+    },
+    {
+      "apiname": "ACH_015",
+      "name": "Scarlet Wraithblade",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793300789
+    },
+    {
+      "apiname": "ACH_016",
+      "name": "The Hunt",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793474146
+    },
+    {
+      "apiname": "ACH_017",
+      "name": "A Thousand Cups Drained",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793555733
+    },
+    {
+      "apiname": "ACH_018",
+      "name": "The Shattered Mirror",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1793639815
+    },
+    {
+      "apiname": "ACH_019",
+      "name": "Will We Meet Again?",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1794995425
+    },
+    {
+      "apiname": "ACH_020",
+      "name": "The Lion's Spirit Lives On",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795124912
+    },
+    {
+      "apiname": "ACH_021",
+      "name": "Sword Against the Seven-Stars",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795292352
+    },
+    {
+      "apiname": "ACH_022",
+      "name": "Crossroads of Blood",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795342926
+    },
+    {
+      "apiname": "ACH_023",
+      "name": "Nothing Goes to Waste",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795345120
+    },
+    {
+      "apiname": "ACH_024",
+      "name": "All Return to Dust",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795361394
+    },
+    {
+      "apiname": "ACH_025",
+      "name": "The White Shadow",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795350329
+    },
+    {
+      "apiname": "ACH_026",
+      "name": "Saw It Through",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795371562
+    },
+    {
+      "apiname": "ACH_027",
+      "name": "All Dreams Must End",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795373286
+    },
+    {
+      "apiname": "ACH_028",
+      "name": "Master of the Misty Waters",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795335708
+    },
+    {
+      "apiname": "ACH_029",
+      "name": "The Four Freed",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795368159
+    },
+    {
+      "apiname": "ACH_030",
+      "name": "The Two Blade Masters",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795339324
+    },
+    {
+      "apiname": "ACH_031",
+      "name": "Three Wardens Fall",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795335170
+    },
+    {
+      "apiname": "ACH_032",
+      "name": "Forbidden Arts Beneath the Lake",
+      "description": "Complete [Secrets at the Heart of the Lake]",
+      "achieved": 1,
+      "unlocktime": 1795350456
+    },
+    {
+      "apiname": "ACH_033",
+      "name": "Phantom and Blade",
+      "description": "Complete [Bloodline Awakening]",
+      "achieved": 1,
+      "unlocktime": 1795359337
+    },
+    {
+      "apiname": "ACH_034",
+      "name": "The Last of Baishan",
+      "description": "Complete [Secrets of the Baishan Sect]",
+      "achieved": 1,
+      "unlocktime": 1795295675
+    },
+    {
+      "apiname": "ACH_035",
+      "name": "Together Till the End",
+      "description": "Complete [The Journey Home]",
+      "achieved": 1,
+      "unlocktime": 1795262736
+    },
+    {
+      "apiname": "ACH_036",
+      "name": "A Wanderer's Honor",
+      "description": "Complete [Young Master Lan]",
+      "achieved": 1,
+      "unlocktime": 1795027897
+    },
+    {
+      "apiname": "ACH_037",
+      "name": "Spectral Blade",
+      "description": "Complete [A Severed Mindseal]",
+      "achieved": 1,
+      "unlocktime": 1795366067
+    },
+    {
+      "apiname": "ACH_038",
+      "name": "The Healer’s Legacy",
+      "description": "Complete [Flesh Lily], [Apprentice Healer], and [A Healer’s Mercy]",
+      "achieved": 1,
+      "unlocktime": 1795123159
+    },
+    {
+      "apiname": "ACH_039",
+      "name": "Lost and Found",
+      "description": "Complete All [Quick Hand’s Requests]",
+      "achieved": 1,
+      "unlocktime": 1795362511
+    },
+    {
+      "apiname": "ACH_040",
+      "name": "Even Trees Know Sorrow",
+      "description": "Complete [Heart of the Banyan]",
+      "achieved": 1,
+      "unlocktime": 1795341923
+    },
+    {
+      "apiname": "ACH_041",
+      "name": "A Tempered Ten",
+      "description": "Perform Tempering on 10 weapons",
+      "achieved": 1,
+      "unlocktime": 1795359898
+    },
+    {
+      "apiname": "ACH_042",
+      "name": "Overwhelming Force",
+      "description": "Upgrade a weapon to Level 30",
+      "achieved": 1,
+      "unlocktime": 1795344496
+    },
+    {
+      "apiname": "ACH_043",
+      "name": "Complete Mastery",
+      "description": "Collect 10 Sha-Chi Ambers",
+      "achieved": 1,
+      "unlocktime": 1795367605
+    },
+    {
+      "apiname": "ACH_044",
+      "name": "Listen to Every Flower",
+      "description": "Collect 10 Memory Flowers",
+      "achieved": 1,
+      "unlocktime": 1794992871
+    },
+    {
+      "apiname": "ACH_045",
+      "name": "Leave No Stone Unturned",
+      "description": "Collect 10 Blackstones",
+      "achieved": 1,
+      "unlocktime": 1795370155
+    },
+    {
+      "apiname": "ACH_046",
+      "name": "Collector’s Notes",
+      "description": "Collect 30 Accessories",
+      "achieved": 1,
+      "unlocktime": 1795085448
+    },
+    {
+      "apiname": "ACH_047",
+      "name": "Phantom Arsenal",
+      "description": "Perform Tempering on 10 Phantom Edges",
+      "achieved": 1,
+      "unlocktime": 1795329393
+    },
+    {
+      "apiname": "ACH_048",
+      "name": "Skill Over Strength",
+      "description": "Upgrade a Phantom Edge to Level 30",
+      "achieved": 1,
+      "unlocktime": 1795338438
+    },
+    {
+      "apiname": "ACH_049",
+      "name": "Way of the Phantom",
+      "description": "Perform a Chain Assassination",
+      "achieved": 1,
+      "unlocktime": 1793292476
+    },
+    {
+      "apiname": "ACH_050",
+      "name": "Way of the Blade",
+      "description": "Perform a Chain Execution",
+      "achieved": 1,
+      "unlocktime": 1793475713
+    },
+    {
+      "apiname": "ACH_051",
+      "name": "The Rusted Blade",
+      "description": "Inflict Blood Loss with Jagged Steel",
+      "achieved": 1,
+      "unlocktime": 1793292674
+    },
+    {
+      "apiname": "ACH_052",
+      "name": "A Drunken Dream",
+      "description": "Use Fanatic's Broken Blade to enter the [Drunk] State",
+      "achieved": 1,
+      "unlocktime": 1795085013
+    },
+    {
+      "apiname": "ACH_053",
+      "name": "Bloodless Victory",
+      "description": "Use Soft Snake Sword's [Serpentine Reversal] to deflect an enemy attack",
+      "achieved": 1,
+      "unlocktime": 1795329118
+    },
+    {
+      "apiname": "ACH_054",
+      "name": "The Flame Within",
+      "description": "Use Infernal Rouge to unleash [Phantom Blade]",
+      "achieved": 1,
+      "unlocktime": 1795361033
+    },
+    {
+      "apiname": "ACH_055",
+      "name": "The Blade's Thirst",
+      "description": "Use Outlaw's Warblade to unleash [Bloodthirst Frenzy]",
+      "achieved": 1,
+      "unlocktime": 1795084815
+    },
+    {
+      "apiname": "ACH_056",
+      "name": "Snow and Frost",
+      "description": "Use Whiteshadow to freeze an enemy",
+      "achieved": 1,
+      "unlocktime": 1795353018
+    },
+    {
+      "apiname": "ACH_057",
+      "name": "Cleave in Two",
+      "description": "Use Crescent Blade's [Qinglong Cleave] to instantly kill an enemy",
+      "achieved": 1,
+      "unlocktime": 1795355971
+    },
+    {
+      "apiname": "ACH_058",
+      "name": "Delayed Blast",
+      "description": "Use Fiend Saws to trigger [Fiend-Aura Erosion]",
+      "achieved": 1,
+      "unlocktime": 1795022912
+    },
+    {
+      "apiname": "ACH_059",
+      "name": "Perfectly Linked",
+      "description": "Use Seamless Death to land consecutive Flying Rings on a locked-on enemy",
+      "achieved": 1,
+      "unlocktime": 1795346321
+    },
+    {
+      "apiname": "ACH_060",
+      "name": "Baishan Tempest",
+      "description": "Use Baishan Stormsword to unleash [Lightning Storm]",
+      "achieved": 1,
+      "unlocktime": 1795329251
+    },
+    {
+      "apiname": "ACH_061",
+      "name": "Heavenfall Strike",
+      "description": "Use Bashpole to land an aerial slam on an enemy",
+      "achieved": 1,
+      "unlocktime": 1795329101
+    },
+    {
+      "apiname": "ACH_062",
+      "name": "Turning the Tide",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1795333317
+    },
+    {
+      "apiname": "ACH_063",
+      "name": "Fists of Fury",
+      "description": "Use Iron Gauntlets to perform [Masterstroke Fist]",
+      "achieved": 1,
+      "unlocktime": 1795329009
+    },
+    {
+      "apiname": "ACH_064",
+      "name": "Lightning Fast",
+      "description": "Use Thunder Spear to paralyze an enemy",
+      "achieved": 1,
+      "unlocktime": 1795331034
+    },
+    {
+      "apiname": "ACH_065",
+      "name": "A Friend from Thin Air",
+      "description": "Use any Summon-type Phantom Edge to summon an ally",
+      "achieved": 1,
+      "unlocktime": 1794968553
+    },
+    {
+      "apiname": "ACH_066",
+      "name": "Defy Destiny",
+      "description": "Unlock all other achievements",
+      "achieved": 1,
+      "unlocktime": 1795374786
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "appid": 632360,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-06T04:10:28Z",
+  "fetched_at": "2026-11-22T21:14:05Z",
   "total": 205,
-  "unlocked": 203,
-  "remaining": 2,
+  "unlocked": 205,
+  "remaining": 0,
   "achievements": [
     {
       "apiname": "AcolyteClearGameMonsoon",
@@ -1165,8 +1165,8 @@
       "apiname": "ObtainArtifactWeakAssKnees",
       "name": "Trial of Frailty",
       "description": "Complete the Trial of Frailty.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793940596
     },
     {
       "apiname": "ObtainArtifactWispOnDeath",
@@ -1284,8 +1284,8 @@
       "apiname": "SuicideHermitCrabs",
       "name": "The Demons And The Crabs",
       "description": "Kill 20 Hermit Crabs by chasing them off the edge of the map.",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1793940138
     },
     {
       "apiname": "ToolbotBeatArenaLater",

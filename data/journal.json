@@ -1,3 +1,42 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "game": "ror2",
+      "fetched_at": "2026-11-22T21:14:05Z",
+      "previous_fetched_at": "2026-11-06T04:10:28Z",
+      "total": 205,
+      "unlocked": 205,
+      "remaining": 0,
+      "newly_unlocked": [
+        {
+          "apiname": "ObtainArtifactWeakAssKnees",
+          "name": "Trial of Frailty",
+          "unlocktime": 1793940596
+        },
+        {
+          "apiname": "SuicideHermitCrabs",
+          "name": "The Demons And The Crabs",
+          "unlocktime": 1793940138
+        }
+      ]
+    },
+    {
+      "game": "witcher3",
+      "fetched_at": "2026-11-22T21:14:06Z",
+      "previous_fetched_at": null,
+      "total": 78,
+      "unlocked": 61,
+      "remaining": 17,
+      "newly_unlocked": []
+    },
+    {
+      "game": "phantom-blade-zero",
+      "fetched_at": "2026-11-22T21:14:06Z",
+      "previous_fetched_at": null,
+      "total": 66,
+      "unlocked": 66,
+      "remaining": 0,
+      "newly_unlocked": []
+    }
+  ]
 }

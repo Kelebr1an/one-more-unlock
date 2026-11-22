@@ -1,0 +1,556 @@
+{
+  "appid": 292030,
+  "profile": "https://steamcommunity.com/id/Kelebr1an/",
+  "fetched_at": "2026-11-22T21:14:06Z",
+  "total": 78,
+  "unlocked": 61,
+  "remaining": 17,
+  "achievements": [
+    {
+      "apiname": "ALL_IN",
+      "name": "All In",
+      "description": "Play three hero cards in one round of gwent and win the match.",
+      "achieved": 1,
+      "unlocktime": 1645397107
+    },
+    {
+      "apiname": "ARMED_AND_DANGEROUS",
+      "name": "Armed and Dangerous",
+      "description": "Find and equip all the elements of one set of witcher gear.",
+      "achieved": 1,
+      "unlocktime": 1644082589
+    },
+    {
+      "apiname": "ASHES_TO_ASHES",
+      "name": "Ashes to Ashes",
+      "description": "Complete the contract on Therazane.",
+      "achieved": 1,
+      "unlocktime": 1645835676
+    },
+    {
+      "apiname": "ASSASSIN",
+      "name": "Assassin of Kings",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646429992
+    },
+    {
+      "apiname": "BOMBARDIER",
+      "name": "Bombardier",
+      "description": "Collect the formulae for 6 different bomb types.",
+      "achieved": 1,
+      "unlocktime": 1643894020
+    },
+    {
+      "apiname": "BOOKWORM",
+      "name": "Bookworm",
+      "description": "Read 30 books, journals or other documents.",
+      "achieved": 1,
+      "unlocktime": 1643609813
+    },
+    {
+      "apiname": "BRAWLER",
+      "name": "Brawler",
+      "description": "Defeat Olaf, the Skellige champion of unarmed combat.",
+      "achieved": 1,
+      "unlocktime": 1646324735
+    },
+    {
+      "apiname": "BRAWL_MASTER",
+      "name": "Brawl Master",
+      "description": "Complete all fistfighting quests in Velen, Skellige and Novigrad.",
+      "achieved": 1,
+      "unlocktime": 1646334922
+    },
+    {
+      "apiname": "BUTCHER_OF_BLAVIKEN",
+      "name": "Butcher of Blaviken",
+      "description": "Kill at least 5 opponents in under 10 seconds.",
+      "achieved": 1,
+      "unlocktime": 1643888155
+    },
+    {
+      "apiname": "CANT_TOUCH_THIS",
+      "name": "Can't Touch This!",
+      "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.",
+      "achieved": 1,
+      "unlocktime": 1644007504
+    },
+    {
+      "apiname": "CARD_COLLECTOR",
+      "name": "Card Collector",
+      "description": "Acquire all gwent cards available in the base version of the game.",
+      "achieved": 1,
+      "unlocktime": 1646591053
+    },
+    {
+      "apiname": "DENDROLOGIST",
+      "name": "Dendrologist",
+      "description": "Acquire all the Abilities in one tree.",
+      "achieved": 1,
+      "unlocktime": 1791108960
+    },
+    {
+      "apiname": "ENEMY_OF_MY_ENEMY",
+      "name": "The Enemy of My Enemy",
+      "description": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENVIRONMENTALLY_UNFRIENDLY",
+      "name": "Environmentally Unfriendly",
+      "description": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).",
+      "achieved": 1,
+      "unlocktime": 1645934367
+    },
+    {
+      "apiname": "EP1_1",
+      "name": "I'm Not Kissing That",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646606486
+    },
+    {
+      "apiname": "EP1_10",
+      "name": "I Wore Ofieri Before It Was Cool",
+      "description": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_11",
+      "name": "Moo-rderer",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_12",
+      "name": "Rad Steez, Bro!",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646350849
+    },
+    {
+      "apiname": "EP1_13",
+      "name": "Killed It",
+      "description": "Win a round of gwent with a total strength of at least 187.",
+      "achieved": 1,
+      "unlocktime": 1645564182
+    },
+    {
+      "apiname": "EP1_2",
+      "name": "Let the Good Times Roll!",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_3",
+      "name": "Shopaholic",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646632874
+    },
+    {
+      "apiname": "EP1_4",
+      "name": "Curator of Nightmares",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646640445
+    },
+    {
+      "apiname": "EP1_5",
+      "name": "Pacta Sunt Servanda",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646669899
+    },
+    {
+      "apiname": "EP1_6",
+      "name": "When It's Many Against One…",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_7",
+      "name": "Return to Sender",
+      "description": "Kill 3 opponents with their own arrows.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_8",
+      "name": "Can Quit Anytime I Want",
+      "description": "Be under the influence of seven potions or decoctions at the same time.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP1_9",
+      "name": "Wild Rose Dethorned",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646599135
+    },
+    {
+      "apiname": "EP2_1",
+      "name": "The Witcher's Gone South",
+      "description": "Travel to the Duchy of Toussaint.",
+      "achieved": 1,
+      "unlocktime": 1646672735
+    },
+    {
+      "apiname": "EP2_10",
+      "name": "Dressed to Kill",
+      "description": "Unlock the bonus for equipping all the witcher gear elements from one School.",
+      "achieved": 1,
+      "unlocktime": 1647021179
+    },
+    {
+      "apiname": "EP2_11",
+      "name": "Weapon \"W\"",
+      "description": "Develop a mutation.",
+      "achieved": 1,
+      "unlocktime": 1646799293
+    },
+    {
+      "apiname": "EP2_12",
+      "name": "Hasta la Vista™",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP2_13",
+      "name": "David and Golyat",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP2_2",
+      "name": "Last Action Hero",
+      "description": "Be decorated with the Order of Vitis Vinifera.",
+      "achieved": 1,
+      "unlocktime": 1647033078
+    },
+    {
+      "apiname": "EP2_3",
+      "name": "Kling of the Clink",
+      "description": "Serve time in Toussaint.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "EP2_4",
+      "name": "A Knight to Remember",
+      "description": "Obtain a flawless victory in all the competitions during the knights' tourney.",
+      "achieved": 1,
+      "unlocktime": 1646730556
+    },
+    {
+      "apiname": "EP2_5",
+      "name": "Embodiment of the Five Virtues",
+      "description": "Be given Aerondight by the Lady of the Lake.",
+      "achieved": 1,
+      "unlocktime": 1646772611
+    },
+    {
+      "apiname": "EP2_6",
+      "name": "Playing House",
+      "description": "Use all available options for developing Corvo Bianco.",
+      "achieved": 1,
+      "unlocktime": 1646701325
+    },
+    {
+      "apiname": "EP2_7",
+      "name": "Turned Every Stone",
+      "description": "Find all grandmaster diagrams for each witcher school.",
+      "achieved": 1,
+      "unlocktime": 1647018355
+    },
+    {
+      "apiname": "EP2_8",
+      "name": "I Have a Gwent Problem",
+      "description": "Collect all the cards in the Skellige deck.",
+      "achieved": 1,
+      "unlocktime": 1646695886
+    },
+    {
+      "apiname": "EP2_9",
+      "name": "The Grapes of Wrath Stomped",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1647023535
+    },
+    {
+      "apiname": "EVEN_ODDS",
+      "name": "Even Odds",
+      "description": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "FAMILY_COUNSELOR",
+      "name": "Family Counselor",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1644024295
+    },
+    {
+      "apiname": "FAST_AND_FURIOUS",
+      "name": "Fast and Furious",
+      "description": "Win all the horse races in the game.",
+      "achieved": 1,
+      "unlocktime": 1646322820
+    },
+    {
+      "apiname": "FEARLESS_VAMPIRE_SLAYER",
+      "name": "Fearless Vampire Slayer",
+      "description": "Complete the contract on Sarasti.",
+      "achieved": 1,
+      "unlocktime": 1645889638
+    },
+    {
+      "apiname": "FIEND_OR_FOE",
+      "name": "Fiend or Foe?",
+      "description": "Complete the contract on Morvudd.",
+      "achieved": 1,
+      "unlocktime": 1646337775
+    },
+    {
+      "apiname": "FIRE_IN_THE_HOLE",
+      "name": "Fire in the Hole",
+      "description": "Destroy 10 monster nests using bombs.",
+      "achieved": 1,
+      "unlocktime": 1644019921
+    },
+    {
+      "apiname": "FIST_OF_THE_SOUTH_STAR",
+      "name": "Fist of the South Star",
+      "description": "Defeat an opponent in a fistfight without taking any damage.",
+      "achieved": 1,
+      "unlocktime": 1644076919
+    },
+    {
+      "apiname": "FRIENDS_WITH_BENEFITS",
+      "name": "Friends With Benefits",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1643887057
+    },
+    {
+      "apiname": "FRIEND_IN_NEED",
+      "name": "A Friend in Need",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1645391288
+    },
+    {
+      "apiname": "FULL_CREW",
+      "name": "Full Crew",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646401308
+    },
+    {
+      "apiname": "GERALT_AND_FRIENDS",
+      "name": "Geralt and Friends",
+      "description": "Win a round of gwent using only neutral cards.",
+      "achieved": 1,
+      "unlocktime": 1643927856
+    },
+    {
+      "apiname": "GLOBETROTTER",
+      "name": "Globetrotter",
+      "description": "Discover 100 fast travel points.",
+      "achieved": 1,
+      "unlocktime": 1645931616
+    },
+    {
+      "apiname": "GWENT_MASTER",
+      "name": "Gwent Master",
+      "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora.",
+      "achieved": 1,
+      "unlocktime": 1645908906
+    },
+    {
+      "apiname": "HUMPTY_DUMPTY",
+      "name": "Humpty Dumpty",
+      "description": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "KAER_MORHEN_TRAINED",
+      "name": "Kaer Morhen Trained",
+      "description": "Perform 10 effective counterattacks in a row without getting hit or parrying.",
+      "achieved": 1,
+      "unlocktime": 1791120977
+    },
+    {
+      "apiname": "LETS_COOK",
+      "name": "Let's Cook!",
+      "description": "Learn 12 potion formulae.",
+      "achieved": 1,
+      "unlocktime": 1643613860
+    },
+    {
+      "apiname": "LILAC",
+      "name": "Lilac and Gooseberries",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1791154036
+    },
+    {
+      "apiname": "MAKER",
+      "name": "Kingmaker",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646316969
+    },
+    {
+      "apiname": "MASTER_MARKSMAN",
+      "name": "Master Marksman",
+      "description": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MUNCHKIN",
+      "name": "Munchkin",
+      "description": "Reach character development level 35.",
+      "achieved": 1,
+      "unlocktime": 1646583117
+    },
+    {
+      "apiname": "MUTANT",
+      "name": "Mutant",
+      "description": "Fill all mutagen slots.",
+      "achieved": 1,
+      "unlocktime": 1646407868
+    },
+    {
+      "apiname": "NECROMANCER",
+      "name": "Necromancer",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1645981719
+    },
+    {
+      "apiname": "OVERKILL",
+      "name": "Overkill",
+      "description": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PASSED_THE_TRIAL",
+      "name": "Passed the Trial",
+      "description": "Finish the game on any difficulty.",
+      "achieved": 1,
+      "unlocktime": 1646439207
+    },
+    {
+      "apiname": "PEST_CONTROL",
+      "name": "Pest Control",
+      "description": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige.",
+      "achieved": 1,
+      "unlocktime": 1646337319
+    },
+    {
+      "apiname": "POWER_OVERWHELMING",
+      "name": "Power Overwhelming",
+      "description": "Have all possible Place of Power bonuses active at the same time.",
+      "achieved": 1,
+      "unlocktime": 1791150790
+    },
+    {
+      "apiname": "RAN_THE_GAUNTLET",
+      "name": "Ran the Gauntlet",
+      "description": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SHRIEKER",
+      "name": "Shrieker",
+      "description": "Complete the contract on the shrieker.",
+      "achieved": 1,
+      "unlocktime": 1643920466
+    },
+    {
+      "apiname": "SOMETHING_MORE",
+      "name": "Something More",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646402908
+    },
+    {
+      "apiname": "THE_DOPPLER_EFFECT",
+      "name": "The Doppler Effect",
+      "description": "Resolve the doppler problem in Novigrad.",
+      "achieved": 1,
+      "unlocktime": 1645742390
+    },
+    {
+      "apiname": "THE_EVILEST_THING",
+      "name": "That Is the Evilest Thing",
+      "description": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "THE_KING",
+      "name": "The King is Dead",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646437618
+    },
+    {
+      "apiname": "THE_PROFESSIONAL",
+      "name": "Geralt: The Professional",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646342397
+    },
+    {
+      "apiname": "TRIPLE_THREAT",
+      "name": "Triple Threat",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646423602
+    },
+    {
+      "apiname": "WALKED_THE_PATH",
+      "name": "Walked the Path",
+      "description": "Finish the game on the \"Death March!\" difficulty level.",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "WHAT_WAS_THAT",
+      "name": "What Was That?",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1791121044
+    },
+    {
+      "apiname": "WOODLAND_SPIRIT",
+      "name": "Woodland Spirit",
+      "description": "Complete the contract on the Woodland Spirit.",
+      "achieved": 1,
+      "unlocktime": 1646338636
+    },
+    {
+      "apiname": "XENONAUT",
+      "name": "Xenonaut",
+      "description": "",
+      "achieved": 1,
+      "unlocktime": 1646427353
+    }
+  ]
+}
