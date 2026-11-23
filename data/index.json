@@ -6,7 +6,7 @@
       "title": "Risk of Rain 2",
       "appid": 632360,
       "status": "completed",
-      "fetched_at": "2026-11-22T21:14:05Z",
+      "fetched_at": "2026-11-23T20:49:49Z",
       "total": 205,
       "unlocked": 205,
       "remaining": 0,
@@ -37,7 +37,7 @@
       "title": "The Witcher 3: Wild Hunt",
       "appid": 292030,
       "status": "in_progress",
-      "fetched_at": "2026-11-22T21:14:06Z",
+      "fetched_at": "2026-11-23T20:49:49Z",
       "total": 78,
       "unlocked": 61,
       "remaining": 17,
@@ -57,7 +57,7 @@
       "title": "Phantom Blade Zero",
       "appid": 4115450,
       "status": "completed",
-      "fetched_at": "2026-11-22T21:14:06Z",
+      "fetched_at": "2026-11-23T20:49:50Z",
       "total": 66,
       "unlocked": 66,
       "remaining": 0,
@@ -76,7 +76,22 @@
     "darkest-dungeon": {
       "title": "Darkest Dungeon",
       "appid": 262060,
-      "status": "not_fetched"
+      "status": "in_progress",
+      "fetched_at": "2026-11-23T20:49:50Z",
+      "total": 126,
+      "unlocked": 0,
+      "remaining": 126,
+      "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/262060.json",
+      "completed_at": null,
+      "last_progress": {
+        "game": "darkest-dungeon",
+        "fetched_at": "2026-11-23T20:49:50Z",
+        "previous_fetched_at": null,
+        "total": 126,
+        "unlocked": 0,
+        "remaining": 126,
+        "newly_unlocked": []
+      }
     }
   }
 }

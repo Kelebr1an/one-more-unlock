@@ -1,0 +1,892 @@
+{
+  "appid": 262060,
+  "profile": "https://steamcommunity.com/id/Kelebr1an/",
+  "fetched_at": "2026-11-23T20:49:50Z",
+  "total": 126,
+  "unlocked": 0,
+  "remaining": 126,
+  "achievements": [
+    {
+      "apiname": "abandon_quest",
+      "name": "Discretion, my old friend...",
+      "description": "Abandon a quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "abbey_treatment",
+      "name": "A rumination, a prayer, and a confession...",
+      "description": "Treat a hero in the Abbey",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "abbey_upgraded",
+      "name": "The abbey my Ancestor once knew...",
+      "description": "Fully upgrade the Abbey",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "all_regions",
+      "name": "I've seen every corner of this ruined land...",
+      "description": "Complete a quest in all four regions",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ancestors_trinkets",
+      "name": "Sentimental relics from our forefathers...",
+      "description": "Acquire all your Ancestor's Trinkets",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_daze_ten_enemies",
+      "name": "Bright Lights",
+      "description": "Daze 10 enemies in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_direct_challenge",
+      "name": "Mono et Mono",
+      "description": "Win a match in the dueling grounds",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_first_arena_played",
+      "name": "Fresh Meat",
+      "description": "Play your first match in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_first_heartattack",
+      "name": "Scare Tactics",
+      "description": "Cause an enemy hero to have a heart attack",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_heartattack_150",
+      "name": "Be Still My Heart!",
+      "description": "Cause 150 heart attacks in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_kill_600",
+      "name": "Blood Flood",
+      "description": "Kill 600 enemies in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_kill_all_heroes",
+      "name": "Taking All Challengers",
+      "description": "Kill each hero class in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_no_damage_win",
+      "name": "Shouting Match",
+      "description": "Win a match using ONLY stress against your enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_no_trinket_win",
+      "name": "Naked and Unafraid",
+      "description": "Win a match without using any trinkets",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_reach_max_prestige",
+      "name": "Crowd Pleaser",
+      "description": "Reach the max Prestige level in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_round_one_kill",
+      "name": "One and Done",
+      "description": "Kill an enemy hero in the first round of a match",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_single_hero_kills_all",
+      "name": "MVP",
+      "description": "Have a single hero deal deathblows to 4 enemies in a single match",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_survive_multiple_dd_checks",
+      "name": "Devil's Luck",
+      "description": "Have a hero survive 5 death's door checks in a single match",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_survive_multiple_heartattack",
+      "name": "Pacemaker",
+      "description": "Have a single hero survive 4 heart attacks in a single match",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_ten_perfect_victories",
+      "name": "Flawless Execution",
+      "description": "Win any 10 matches without losing any heroes",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "arena_win_100",
+      "name": "Blood Soaks the Sand",
+      "description": "Win 100 matches in the Butcher's Circus",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ashes_to_ashes",
+      "name": "Ashes To Ashes",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "beast_100",
+      "name": "And we slew the beasts that creepeth...",
+      "description": "Defeat 100 Beast enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "blacksmith_upgraded",
+      "name": "Our equipment polished to a mirror finish...",
+      "description": "Fully upgrade the Blacksmith",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "blinders_lifted",
+      "name": "The Blinders Are Lifted",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "blue_skies_ahead",
+      "name": "Blue Skies Ahead",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "build_a_district_building",
+      "name": "From Rubble to Rabble",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "build_the_red_hook",
+      "name": "The Red Hook",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "build_windmill",
+      "name": "A Memory Of Better Times (And Spaces)",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "burnout",
+      "name": "Burnout",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "caretaker_goals_complete",
+      "name": "Caretaker",
+      "description": "Complete all Caretaker Goals",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "collect_the_invitation",
+      "name": "An Unexpected Party",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "collect_trinket_set",
+      "name": "Happy Together",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "cooked_to_perfection",
+      "name": "Cooked to Perfection",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "darkest_dungeon_party_wipe",
+      "name": "Valiant sacrifice...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "death_to_maggot",
+      "name": "We return to the worms of the earth...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "death_to_wilbur",
+      "name": "That'll do, pig...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "deaths_door_survived_5_attacks",
+      "name": "What is already Dead Cannot Die",
+      "description": "Have a character survive 5 attacks at Death's Door in a single combat",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "defeat_sleeper",
+      "name": "Beyond The Infinite",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "defeat_the_brigand_vulf",
+      "name": "In Sheep's Clothing",
+      "description": "Defeat the brigand Vvulf",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "defeat_thing_from_stars",
+      "name": "There Are No Words",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "dismas_and_reynauld_completed",
+      "name": "On the old road, we found redemption.",
+      "description": "Dismas and Reynauld Made it to the final Darkest Dungeon Quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "dueling_duo",
+      "name": "Dueling Duo",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "eldritch_100",
+      "name": "And we slew the evils that lurketh...",
+      "description": "Defeat 100 Eldritch enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "entire_roster_has_curse",
+      "name": "Blood Cult",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "faced_worse",
+      "name": "Faced Worse",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_boss",
+      "name": "The first evil to fall...",
+      "description": "Slay your first boss",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_boss_party_wipe",
+      "name": "More blood soaks the soil...",
+      "description": "Party wipe on a boss",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_heart_attack_death",
+      "name": "The stresses were unbearable...",
+      "description": "Lose your first hero to heart attack",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_hunger_death",
+      "name": "Gnawing hunger sets in...",
+      "description": "Lose a hero to hunger",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_obstacle_death",
+      "name": "Blocked from life...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_party_wipe",
+      "name": "No retreat, no quarter...",
+      "description": "First party wipe",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_trap_death",
+      "name": "Watch your step...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "first_victory",
+      "name": "The first of many victories...",
+      "description": "Complete a quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "four_afflicted",
+      "name": "Twisted and about to break",
+      "description": "Complete a dungeon with all 4 heroes afflicted",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "four_hero_dodge_miller",
+      "name": "A Poor Harvest",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "four_hero_level_6",
+      "name": "Darkest sentinels...",
+      "description": "Raise 4 heroes to Resolve Level 6",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "game_complete",
+      "name": "Victory, such as it is...",
+      "description": "Complete the game",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "game_complete_in_75_weeks",
+      "name": "In such haste...",
+      "description": "Complete the game within 99 Weeks",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "game_complete_ng",
+      "name": "World End",
+      "description": "Complete the game on Stygian",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "game_complete_on_default",
+      "name": "Strict Mode",
+      "description": "Complete the game with default difficulty options",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "game_complete_radiant",
+      "name": "Entry Level",
+      "description": "Complete the game on Radiant",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "get_crimson_curse",
+      "name": "Symptoms",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "get_crimson_curse_via_contagion",
+      "name": "What Strange Bedfellows",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "guild_upgraded",
+      "name": "Our techniques sharpened to a razor's edge...",
+      "description": "Fully upgrade the Guild",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "hero_4_skill_upgrade",
+      "name": "Only masterful technique will suffice in battle...",
+      "description": "Fully upgrade at least four of a hero's skills",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "hero_dismissed",
+      "name": "Weeding out the weak...",
+      "description": "Dismiss your first hero",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "hollow_reckoning",
+      "name": "A Hollow Reckoning",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "human_100",
+      "name": "And we slew the men who were wicked...",
+      "description": "Defeat 100 Human enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "kill_50",
+      "name": "A killer of striking force and wit...",
+      "description": "Kill 50 enemies with one hero",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "kill_all_bosses",
+      "name": "Driven from this land...",
+      "description": "Kill all bosses",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "kill_an_ally_through_curse",
+      "name": "Shadows Blur Together",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "kill_boss_with_four_afflicted",
+      "name": "Dysfunction",
+      "description": "Kill any boss with a party of four afflicted heroes",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "kill_boss_with_one_hero",
+      "name": "Lone survivor",
+      "description": "Kill any boss with only one hero remaining",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "lining_pocket",
+      "name": "Lining the Jeweller's Pockets",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "long_quest",
+      "name": "A grueling adventure comes to a close...",
+      "description": "Complete a long quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "lose_a_cursed_hero",
+      "name": "Expired",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "lose_level_6_hero",
+      "name": "We all return to dust...",
+      "description": "Lose a Legendary (Level 6) hero",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "lost_first_hero",
+      "name": "The first of many has fallen...",
+      "description": "Lose your first hero",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "lost_in_dust",
+      "name": "Tears Lost In The Dust",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "medium_quest",
+      "name": "A strenuous adventure comes to a close...",
+      "description": "Complete a medium quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "merciful_act",
+      "name": "A Merciful Act",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "mouth_of_madness",
+      "name": "In The Mouth of Madness",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "one_hero_level_6",
+      "name": "A true champion emerges...",
+      "description": "Raise a hero to Resolve Level 6",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "one_of_each_hero",
+      "name": "A veritable crowd...",
+      "description": "Have one of each class on your roster",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "pavlovian",
+      "name": "Pavlovian",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "pipe_dream",
+      "name": "Pipe Dream",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "plowshares_to_swords",
+      "name": "Plowshares To Swords",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "quest_20k_gold",
+      "name": "Greater riches were never witnessed...",
+      "description": "Collect at least 20,000 gold from a single quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "quest_30_heirloom",
+      "name": "A collection of treasured antiques...",
+      "description": "Collect at least 30 heirlooms from a single quest",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "quirk_lock",
+      "name": "Encouragement...",
+      "description": "Lock a positive Quirk in the Sanitarium",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "quirk_treatment",
+      "name": "The price we pay for sanity...",
+      "description": "Remove a Quirk in the Sanitarium",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "rainbows_end",
+      "name": "Rainbow's End",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "recruit_a_flagellant",
+      "name": "The Flesh is Willing",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "rescue_a_prisoner",
+      "name": "Jailbreak",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "revenant_riposte",
+      "name": "Time Is A Flat Circle",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "rogues_gallery",
+      "name": "Rogues Gallery",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "shards_well_spent",
+      "name": "Shards Well Spent",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "single_camping_skill",
+      "name": "It takes more than brawn...",
+      "description": "Learn a new Camping skill",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "single_combat_skill",
+      "name": "And our training begins...",
+      "description": "Upgrade a Combat skill",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_4_champions",
+      "name": "Four on the Floor",
+      "description": "Kill Squiffy Ghast, Swine Skiver, Bone Bearer and Hateful Virago",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_a_crow",
+      "name": "Murder of Crows",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_a_shambler",
+      "name": "A terrifying figure emerged from the darkness...",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_a_squiffy_with_jester",
+      "name": "Mine Goes to 11",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_the_baron",
+      "name": "Les Jeux Sont Faits",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_the_countess",
+      "name": "Her Last Dance",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_the_fanatic",
+      "name": "Zealous Accusation",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "slay_the_viscount",
+      "name": "Just the Cheque",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "start_dd_heroes_level_0",
+      "name": "Like lambs to the slaughter...",
+      "description": "Start a Darkest Dungeon quest with four heroes of resolve level 0",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "start_quest_heroes_level_6",
+      "name": "A team of hardened veterans...",
+      "description": "Start a quest with all four heroes of Resolve Level 6",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "taste_of_madness",
+      "name": "A Taste Of Madness",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "tavern_treatment",
+      "name": "A drink, a hand, and a companion...",
+      "description": "Treat a hero in the Tavern",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "tavern_upgraded",
+      "name": "The tavern my Ancestor once saw...",
+      "description": "Fully upgrade the Tavern",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ten_victories",
+      "name": "Our victories are mounting...",
+      "description": "Complete 10 quests",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "the_perfection",
+      "name": "The Perfection",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "this_is_nothing",
+      "name": "This Is Nothing",
+      "description": "",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "total_enemies",
+      "name": "The fiends must be driven back...",
+      "description": "Slay 1000 enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "town_fully_upgraded",
+      "name": "Restored to its former glory...",
+      "description": "Fully upgrade the Town",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "twenty_five_victories",
+      "name": "We are victorious, but at what cost...",
+      "description": "Complete 25 quests",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "unholy_100",
+      "name": "And we slew the abominations that haunteth...",
+      "description": "Defeat 100 Unholy enemies",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "visit_graveyard",
+      "name": "A sobering visit with the departed...",
+      "description": "Visit the Graveyard",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "walk_500",
+      "name": "More than a weary traveler...",
+      "description": "Walk 500 steps with one hero",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "weapon_and_armour_upgraded",
+      "name": "Only the finest equipment will endure this torment...",
+      "description": "Fully upgrade a hero's weapons and armor",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "week_104",
+      "name": "Two years of this...",
+      "description": "Reach week 104",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "week_52",
+      "name": "The end of the first year...",
+      "description": "Reach week 52",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "welcome_home",
+      "name": "Welcome home...",
+      "description": "Reach the Estate",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  ]
+}

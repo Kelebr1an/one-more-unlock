@@ -37,6 +37,15 @@
       "unlocked": 66,
       "remaining": 0,
       "newly_unlocked": []
+    },
+    {
+      "game": "darkest-dungeon",
+      "fetched_at": "2026-11-23T20:49:50Z",
+      "previous_fetched_at": null,
+      "total": 126,
+      "unlocked": 0,
+      "remaining": 126,
+      "newly_unlocked": []
     }
   ]
 }
