@@ -1,10 +1,10 @@
 {
   "appid": 262060,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-23T20:49:50Z",
+  "fetched_at": "2026-11-23T22:05:09Z",
   "total": 126,
-  "unlocked": 0,
-  "remaining": 126,
+  "unlocked": 3,
+  "remaining": 123,
   "achievements": [
     {
       "apiname": "abandon_quest",
@@ -381,8 +381,8 @@
       "apiname": "first_victory",
       "name": "The first of many victories...",
       "description": "Complete a quest",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795471113
     },
     {
       "apiname": "four_afflicted",
@@ -850,8 +850,8 @@
       "apiname": "visit_graveyard",
       "name": "A sobering visit with the departed...",
       "description": "Visit the Graveyard",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795469773
     },
     {
       "apiname": "walk_500",
@@ -885,8 +885,8 @@
       "apiname": "welcome_home",
       "name": "Welcome home...",
       "description": "Reach the Estate",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795468339
     }
   ]
 }

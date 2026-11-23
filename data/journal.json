@@ -46,6 +46,31 @@
       "unlocked": 0,
       "remaining": 126,
       "newly_unlocked": []
+    },
+    {
+      "game": "darkest-dungeon",
+      "fetched_at": "2026-11-23T22:05:09Z",
+      "previous_fetched_at": "2026-11-23T20:49:50Z",
+      "total": 126,
+      "unlocked": 3,
+      "remaining": 123,
+      "newly_unlocked": [
+        {
+          "apiname": "first_victory",
+          "name": "The first of many victories...",
+          "unlocktime": 1795471113
+        },
+        {
+          "apiname": "visit_graveyard",
+          "name": "A sobering visit with the departed...",
+          "unlocktime": 1795469773
+        },
+        {
+          "apiname": "welcome_home",
+          "name": "Welcome home...",
+          "unlocktime": 1795468339
+        }
+      ]
     }
   ]
 }

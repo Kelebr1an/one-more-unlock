@@ -77,20 +77,36 @@
       "title": "Darkest Dungeon",
       "appid": 262060,
       "status": "in_progress",
-      "fetched_at": "2026-11-23T20:49:50Z",
+      "fetched_at": "2026-11-23T22:05:09Z",
       "total": 126,
-      "unlocked": 0,
-      "remaining": 126,
+      "unlocked": 3,
+      "remaining": 123,
       "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/262060.json",
       "completed_at": null,
       "last_progress": {
         "game": "darkest-dungeon",
-        "fetched_at": "2026-11-23T20:49:50Z",
-        "previous_fetched_at": null,
+        "fetched_at": "2026-11-23T22:05:09Z",
+        "previous_fetched_at": "2026-11-23T20:49:50Z",
         "total": 126,
-        "unlocked": 0,
-        "remaining": 126,
-        "newly_unlocked": []
+        "unlocked": 3,
+        "remaining": 123,
+        "newly_unlocked": [
+          {
+            "apiname": "first_victory",
+            "name": "The first of many victories...",
+            "unlocktime": 1795471113
+          },
+          {
+            "apiname": "visit_graveyard",
+            "name": "A sobering visit with the departed...",
+            "unlocktime": 1795469773
+          },
+          {
+            "apiname": "welcome_home",
+            "name": "Welcome home...",
+            "unlocktime": 1795468339
+          }
+        ]
       }
     }
   }
