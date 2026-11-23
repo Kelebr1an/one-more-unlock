@@ -1,6 +1,6 @@
 # One More Unlock
 
-Личный трекер достижений для Risk of Rain 2, The Witcher 3 и Phantom Blade Zero.
+Личный трекер достижений Steam. Список игр есть в общем индексе.
 
 - [Общий индекс для ChatGPT](https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/index.json) показывает прогресс, дату обновления и ссылку на достижения каждой игры.
 - [Ручное обновление в GitHub Actions](https://github.com/Kelebr1an/one-more-unlock/actions/workflows/update-achievements.yml). Нажми **Run workflow**, выбери игру или `all` и дождись завершения.

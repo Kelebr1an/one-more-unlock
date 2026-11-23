@@ -72,6 +72,11 @@
         "remaining": 0,
         "newly_unlocked": []
       }
+    },
+    "darkest-dungeon": {
+      "title": "Darkest Dungeon",
+      "appid": 262060,
+      "status": "not_fetched"
     }
   }
 }

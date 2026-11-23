@@ -37,15 +37,16 @@ class TrackerTests(unittest.TestCase):
     def test_shared_identity_and_independent_snapshots(self):
         status, client = self.update(list(GAMES), *(game_payload(slug) for slug in GAMES))
         self.assertEqual(status, 0)
-        self.assertEqual(client.get.call_count, 4)
+        self.assertEqual(client.get.call_count, len(GAMES) + 1)
         self.assertEqual([call.args[1]["appid"] for call in client.get.call_args_list[1:]],
-                         [632360, 292030, 4115450])
-        self.assertEqual(self.read("achievements.json")["appid"], 632360)
-        self.assertEqual(self.read("292030.json")["appid"], 292030)
-        self.assertEqual(self.read("4115450.json")["appid"], 4115450)
+                         [game["appid"] for game in GAMES.values()])
         index = self.read("index.json")["games"]
-        self.assertTrue(index["ror2"]["achievements_url"].endswith("/achievements.json"))
-        self.assertTrue(index["witcher3"]["achievements_url"].endswith("/292030.json"))
+        for slug, game in GAMES.items():
+            appid = game["appid"]
+            filename = "achievements.json" if slug == "ror2" else f"{appid}.json"
+            with self.subTest(slug=slug):
+                self.assertEqual(self.read(filename)["appid"], appid)
+                self.assertTrue(index[slug]["achievements_url"].endswith("/" + filename))
 
     def test_journal_only_records_new_unlocks_after_baseline(self):
         self.update(["phantom-blade-zero"], game_payload("phantom-blade-zero"))
