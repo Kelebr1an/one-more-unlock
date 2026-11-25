@@ -71,6 +71,41 @@
           "unlocktime": 1795468339
         }
       ]
+    },
+    {
+      "game": "darkest-dungeon",
+      "fetched_at": "2026-11-25T15:31:25Z",
+      "previous_fetched_at": "2026-11-23T22:05:09Z",
+      "total": 126,
+      "unlocked": 8,
+      "remaining": 118,
+      "newly_unlocked": [
+        {
+          "apiname": "abbey_treatment",
+          "name": "A rumination, a prayer, and a confession...",
+          "unlocktime": 1795620632
+        },
+        {
+          "apiname": "medium_quest",
+          "name": "A strenuous adventure comes to a close...",
+          "unlocktime": 1795620632
+        },
+        {
+          "apiname": "quest_20k_gold",
+          "name": "Greater riches were never witnessed...",
+          "unlocktime": 1795620632
+        },
+        {
+          "apiname": "arena_first_arena_played",
+          "name": "Fresh Meat",
+          "unlocktime": 1795510662
+        },
+        {
+          "apiname": "arena_first_heartattack",
+          "name": "Scare Tactics",
+          "unlocktime": 1795510608
+        }
+      ]
     }
   ]
 }

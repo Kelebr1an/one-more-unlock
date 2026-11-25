@@ -77,34 +77,44 @@
       "title": "Darkest Dungeon",
       "appid": 262060,
       "status": "in_progress",
-      "fetched_at": "2026-11-23T22:05:09Z",
+      "fetched_at": "2026-11-25T15:31:25Z",
       "total": 126,
-      "unlocked": 3,
-      "remaining": 123,
+      "unlocked": 8,
+      "remaining": 118,
       "achievements_url": "https://raw.githubusercontent.com/Kelebr1an/one-more-unlock/main/data/262060.json",
       "completed_at": null,
       "last_progress": {
         "game": "darkest-dungeon",
-        "fetched_at": "2026-11-23T22:05:09Z",
-        "previous_fetched_at": "2026-11-23T20:49:50Z",
+        "fetched_at": "2026-11-25T15:31:25Z",
+        "previous_fetched_at": "2026-11-23T22:05:09Z",
         "total": 126,
-        "unlocked": 3,
-        "remaining": 123,
+        "unlocked": 8,
+        "remaining": 118,
         "newly_unlocked": [
           {
-            "apiname": "first_victory",
-            "name": "The first of many victories...",
-            "unlocktime": 1795471113
+            "apiname": "abbey_treatment",
+            "name": "A rumination, a prayer, and a confession...",
+            "unlocktime": 1795620632
           },
           {
-            "apiname": "visit_graveyard",
-            "name": "A sobering visit with the departed...",
-            "unlocktime": 1795469773
+            "apiname": "medium_quest",
+            "name": "A strenuous adventure comes to a close...",
+            "unlocktime": 1795620632
           },
           {
-            "apiname": "welcome_home",
-            "name": "Welcome home...",
-            "unlocktime": 1795468339
+            "apiname": "quest_20k_gold",
+            "name": "Greater riches were never witnessed...",
+            "unlocktime": 1795620632
+          },
+          {
+            "apiname": "arena_first_arena_played",
+            "name": "Fresh Meat",
+            "unlocktime": 1795510662
+          },
+          {
+            "apiname": "arena_first_heartattack",
+            "name": "Scare Tactics",
+            "unlocktime": 1795510608
           }
         ]
       }

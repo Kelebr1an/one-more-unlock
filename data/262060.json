@@ -1,10 +1,10 @@
 {
   "appid": 262060,
   "profile": "https://steamcommunity.com/id/Kelebr1an/",
-  "fetched_at": "2026-11-23T22:05:09Z",
+  "fetched_at": "2026-11-25T15:31:25Z",
   "total": 126,
-  "unlocked": 3,
-  "remaining": 123,
+  "unlocked": 8,
+  "remaining": 118,
   "achievements": [
     {
       "apiname": "abandon_quest",
@@ -17,8 +17,8 @@
       "apiname": "abbey_treatment",
       "name": "A rumination, a prayer, and a confession...",
       "description": "Treat a hero in the Abbey",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795620632
     },
     {
       "apiname": "abbey_upgraded",
@@ -59,15 +59,15 @@
       "apiname": "arena_first_arena_played",
       "name": "Fresh Meat",
       "description": "Play your first match in the Butcher's Circus",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795510662
     },
     {
       "apiname": "arena_first_heartattack",
       "name": "Scare Tactics",
       "description": "Cause an enemy hero to have a heart attack",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795510608
     },
     {
       "apiname": "arena_heartattack_150",
@@ -570,8 +570,8 @@
       "apiname": "medium_quest",
       "name": "A strenuous adventure comes to a close...",
       "description": "Complete a medium quest",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795620632
     },
     {
       "apiname": "merciful_act",
@@ -626,8 +626,8 @@
       "apiname": "quest_20k_gold",
       "name": "Greater riches were never witnessed...",
       "description": "Collect at least 20,000 gold from a single quest",
-      "achieved": 0,
-      "unlocktime": 0
+      "achieved": 1,
+      "unlocktime": 1795620632
     },
     {
       "apiname": "quest_30_heirloom",
